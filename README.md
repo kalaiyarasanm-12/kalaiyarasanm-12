@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiyarasanm-12&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiyarasanm-12" /> </p>
 
-- 📚 I’m Final year **Computer Science Student**
+- 💻 **Software Developer** specializing in Java, Spring Boot, Microservices, PostgreSQL, Apache Solr, AWS & Vue.js
 
-- 🌱 I’m currently learning **AngularJS**
+- 🚀 Passionate about building scalable fullstack applications and solving real-world engineering challenges
 
-- 💬 Ask me about **Fullstack Projects and Android App Development**
+- 💬 Ask me about Backend Development, Fullstack Projects, and Microservices Architecture
 
 - 📫 How to reach me **kalaiyarasanm12@gmail.com**
 
