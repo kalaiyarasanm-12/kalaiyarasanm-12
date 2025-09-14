@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalaiyarasan M</h1>
-<h3 align="center">Looking for oppurtunities as Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiyarasanm-12&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiyarasanm-12" /> </p>
 
