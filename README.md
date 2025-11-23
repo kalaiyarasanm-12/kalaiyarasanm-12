@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kalaiyarasan M</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiyarasanm-12&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiyarasanm-12" /> </p>
 
-- 💻 **Software Developer** specializing in Java, Spring Boot, Microservices, PostgreSQL, Apache Solr, AWS & Vue.js
+- 💻 **Software Engineer** specializing in Java, Spring Boot, Microservices, PostgreSQL, Apache Solr, AWS & Vue.js
 
 - 🚀 Passionate about building scalable fullstack applications and solving real-world engineering challenges
 
